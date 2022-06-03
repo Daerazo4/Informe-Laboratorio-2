@@ -66,6 +66,7 @@ Cálculos del porcentaje de error
 
 [![calculo-error.png](https://i.postimg.cc/GtNrgQMT/calculo-error.png)](https://postimg.cc/wRhS7hY9)
 
+Dentro del calculo de error en el primer ejercicio tuvimos un fallo de medicion y se le coloco de forma negativa pero se lo corrigio dentro de todo el informe.
 
  MALLA | RESULTADOS ANALÍTICOS | RESULTADOS SIMULADOS| % ERROR |
 | ------------- | ------------- | ------------- | ------------- |
