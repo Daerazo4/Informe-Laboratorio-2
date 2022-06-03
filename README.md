@@ -41,13 +41,13 @@ Mida cada una de las corrientes de malla y anote los resultados
 
 Simule en el software Thinkercad, el circuito, obteniendo los valores de las corrientes de malla. 
 
-[![circuito-cerrado-ma.png](https://i.postimg.cc/rFDJ2mP1/circuito-cerrado-ma.png)](https://postimg.cc/1fZ6p9PX)
+[![circuito-2.png](https://i.postimg.cc/6QHn8MWB/circuito-2.png)](https://postimg.cc/R3HN8QJY)
 
 ### TABLA DE DATOS
 
 | MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES| RESULTADOS SIMULADOS |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | -1.15 mA | -1.10 mA | -1.15 mA |
+| 1 | 1.15 mA | 1.10 mA | 1.15 mA |
 | 2 | 2.90 mA | 2.85 mA | 2.90 mA |
 | 3 | 6.32 mA | 6.10 mA | 6.32 mA |
 
@@ -59,7 +59,7 @@ Cálculos del porcentaje de error
 
 | MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES| % ERROR|
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | -1.15 mA | -1.10 mA | 4.35 % |
+| 1 | 1.15 mA | 1.10 mA | 4.35 % |
 | 2 | 2.90 mA | 2.85 mA | 1.72 % |
 | 3 | 6.32 mA | 6.10 mA | 3.48 % |
 
@@ -69,7 +69,7 @@ Cálculos del porcentaje de error
 
  MALLA | RESULTADOS ANALÍTICOS | RESULTADOS SIMULADOS| % ERROR |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | -1.15 mA | -1.15 mA | 0 % |
+| 1 | 1.15 mA | 1.15 mA | 0 % |
 | 2 | 2.90 mA | 2.90 mA | 0 % |
 | 3 | 6.32 mA | 6.32 mA | 0 % |
 
